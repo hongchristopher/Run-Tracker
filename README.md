@@ -9,7 +9,7 @@ A comprehensive running progress tracking application utilizing MERN featuring C
 3. Create a .env file in the 'backend' directory with your MongoDB credentials.
 4. Start the development servers.
 
-For example, to add a new running session click the appropriate 'Add a running session!' link, enter your data, and submit. You will then be able to view, edit, and delete your running session on the Home Page.
+To use the app, add a new running session by clicking the appropriate 'Add a running session!' link, enter your data, and submit. You will then be able to view, edit, and delete your running session on the Home Page.
 
 ## Built With
 
